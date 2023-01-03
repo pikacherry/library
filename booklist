@@ -1,0 +1,51 @@
+[
+  {
+    	"id": 1,
+	"name": "Pokemon Guide", 
+	"BookCopies": "41",
+	"BookBorrowed": "26"
+  },
+  {
+
+    "id": 2,
+	"name": "Pikachu", 
+	"BookCopies": "26",
+	"BookBorrowed": "26"
+  },
+  {
+    	"id": 3,
+	"name": "Bulbasaur", 
+	"BookCopies": "51",
+	"BookBorrowed": "36"
+  },
+  {
+    	"id": 4,
+	"name": "Charmander", 
+	"BookCopies": "21",
+	"BookBorrowed": "09"
+  },
+  {
+    	"id": 5,
+	"name": "Squirtle",
+	"BookCopies": "17",
+	"BookBorrowed": "09"
+  }
+  {
+    	"id": 6,
+	"name": "Pokemon Ultimate Trainer Guide",
+	"BookCopies": "34",
+	"BookBorrowed": "29"
+  }
+  {
+    	"id": 7,
+	"name": "Pokemon anatomy",
+	"BookCopies": "12",
+	"BookBorrowed": "05"
+  }
+  {
+    	"id": 8,
+	"name": "How to be a Pokemon Trainer",
+	"BookCopies": "27",
+	"BookBorrowed": "06"
+  }
+]
